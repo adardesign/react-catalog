@@ -4,7 +4,7 @@
   "description": "A react Catalog web app",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "webpack-dev-server --inline --hot",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Eliazer Braun",
